@@ -4,3 +4,4 @@ Anggota Kelompok:
 - Muhammad Syafiq Ainurridho
 
   Aplikasi Untuk Manajemen LAundry Delima Ngaliyan
+  UAS Pemrograman WEB
